@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VeloceAI/.github/main/VeloceAI_logo-removebg-preview.png" width="200" alt="VeloceAI"/>
+  <img src="https://raw.githubusercontent.com/Veloce-AI/.github/main/VeloceAI_logo-removebg-preview.png" width="200" alt="VeloceAI"/>
 
   <h2>VeloceAI Private Limited</h2>
   <p><em>Intelligence at Speed</em></p>
